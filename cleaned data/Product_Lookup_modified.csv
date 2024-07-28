@@ -1,0 +1,42 @@
+Prod code,Prod cls,Prod name,Start Date,End Date
+1001,Loans,Home loan,1980-01-01,2007-06-13
+1002,Loans,Personal Loan,1980-01-01,4599-12-31
+1003,Loans,car loan,2001-06-01,4599-12-31
+1004,Loans,student loan,2007-06-13,4599-12-31
+1005,Loans,gold loan,2010-05-01,4599-12-31
+1006,Loans,automobile loan,1975-06-01,4599-12-31
+1007,Loans,buisness loan,2000-05-01,4599-12-31
+1008,Loans,small business loan,1980-01-01,4599-12-31
+1009,Loans,home loan extra,2016-12-04,4599-12-31
+1010,Loans,personal loan plus,2010-03-11,4599-12-31
+1011,Loans,home loan,2007-06-14,4599-12-31
+2001,Cards,Travel,2000-05-01,4599-12-31
+2002,Cards,rewards,2008-12-01,4599-12-31
+2003,Cards,business,2018-12-25,4599-12-31
+2004,Cards,credit builder,1975-06-01,2005-02-10
+2005,Cards,purchase,2015-03-10,4599-12-31
+2006,Cards,travel plus,2005-03-10,4599-12-31
+2007,Cards,credit builder,2005-03-10,4599-12-31
+3001,Savings,Max Saver,1995-06-30,4599-12-31
+3002,Savings,Tax Saver,1995-06-30,4599-12-31
+3003,Savings,Certificate of deposit,1995-06-30,4599-12-31
+3004,Savings,High yield saver,1995-06-30,4599-12-31
+3005,Savings,Limited Access,1995-06-30,4599-12-31
+4001,Current,Standard,1991-01-15,4599-12-31
+4002,Current,Youth Account,1975-06-01,4599-12-31
+4003,Current,Basic,1991-01-15,4599-12-31
+4004,Current,Joint,1975-06-01,4599-12-31
+5001,Investment,bonds,2000-11-17,4599-12-31
+5002,Investment,pension,2000-11-17,4599-12-31
+5003,Investment,brokerage,2000-11-17,4599-12-31
+5004,Investment,retirement,2000-11-17,4599-12-31
+6001,Mortgages,Fixed Rate,1998-08-19,4599-12-31
+6002,Mortgages,Buy to Let,1998-08-19,4599-12-31
+6003,Mortgages,Standard,1998-08-19,4599-12-31
+7001,Forex,Standard,2017-01-26,4599-12-31
+7002,Forex,Managed,2017-01-26,4599-12-31
+8001,Insurance,Home Insurance,1997-04-16,4599-12-31
+8002,Insurance,automobile insurance,1997-04-16,4599-12-31
+8003,Insurance,life insurance,1997-04-16,4599-12-31
+8004,Insurance,health insurance,1997-04-16,4599-12-31
+8005,Insurance,Travel Insurance,1997-04-16,4599-12-31
